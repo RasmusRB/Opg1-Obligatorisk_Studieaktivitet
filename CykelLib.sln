@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CykelLib", "CykelLib\CykelLib.csproj", "{1F92769F-C2E9-4789-B2D5-9AB40CD6B094}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CykelTest", "CykelTest\CykelTest.csproj", "{6296FF04-9535-4FE8-A158-82748C0E4901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CykelTest", "CykelTest\CykelTest.csproj", "{6296FF04-9535-4FE8-A158-82748C0E4901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CykelREST", "CykelREST\CykelREST.csproj", "{EDFE6085-4A59-404F-9D83-561A8B2D61E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6296FF04-9535-4FE8-A158-82748C0E4901}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6296FF04-9535-4FE8-A158-82748C0E4901}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6296FF04-9535-4FE8-A158-82748C0E4901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFE6085-4A59-404F-9D83-561A8B2D61E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFE6085-4A59-404F-9D83-561A8B2D61E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFE6085-4A59-404F-9D83-561A8B2D61E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFE6085-4A59-404F-9D83-561A8B2D61E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
